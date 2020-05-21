@@ -10,4 +10,6 @@ axios.get('https://random.dog/woof.json')
     let data = response.data
     let imagen = document.getElementById("mi_imagen")
     imagen.src = data.url
+    let alerta = document.getElementById("alerta")
+    alerta.style.display = "none"
 })
