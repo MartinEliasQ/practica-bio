@@ -1,3 +1,2 @@
 console.log("I am here")
 
-localStorage.setItem('token', 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiNWVjNzAwZDUyNDhlN2Y0Nzg2Zjg5ZTU2IiwidXNlcm5hbWUiOiJncnVwbzMiLCJtb2RlIjoidXNlciIsImV4cCI6MTU5MDMyMjgzOCwic3ViIjoiYWNjZXNzIn0.Y7Kg_htpTBy2JvYujCt6AYmufXzPH96BH9Q-Mu2nWS4"');
